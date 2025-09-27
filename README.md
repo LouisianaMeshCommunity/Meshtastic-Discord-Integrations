@@ -1,7 +1,7 @@
 # Meshtastic Discord Integrations
 
 A collection of Discord integrations for Meshtastic communities.  
-Built in Python, powered by the [MeshView API](https://meshview.louisianamesh.org) (Meshtastic MQTT schema).  
+Built in Python, powered by the [MeshView API](https://meshtastic.org/docs/software/integrations/mqtt/) (Meshtastic MQTT schema).  
 Originally developed with the Louisiana Meshtastic community, but usable by any group running a MeshView backend.
 
 ---
@@ -29,3 +29,4 @@ Originally developed with the Louisiana Meshtastic community, but usable by any 
    ```bash
    git clone https://github.com/LouisianaMeshCommunit/meshtastic-discord-integrations.git
    cd meshtastic-discord-integrations
+Add your discord webhook URL in script and your MQTT server URL
