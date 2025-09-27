@@ -1,8 +1,8 @@
 import requests, time, datetime, os
 
 
-API_URL = "https://meshview.louisianamesh.org/api/chat"
-DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1421395763069587557/SKDp9gRUaX9c_l11cHSp9ESzlVZSTuLmQxh77UttijYg9AXHN1xOjN1l6xGh5QPGNgH_"
+API_URL = "https://YourMQTTSERVER.URL/api/chat"
+DISCORD_WEBHOOK = "https://discord.com/api/webhooks/xxxxxxxxxxxxxxxxx/xxxxxxxxxxxxxxxxxxxxxxxxxxXX" ## Replace this with your Discord webhook.
 
 last_time = datetime.datetime.utcnow().isoformat()
 
