@@ -27,6 +27,6 @@ Originally developed with the Louisiana Meshtastic community, but usable by any 
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/LouisianaMeshCommunit/meshtastic-discord-integrations.git
+   git clone https://github.com/LouisianaMeshCommunity/meshtastic-discord-integrations.git
    cd meshtastic-discord-integrations
 Add your discord webhook URL in script and your MQTT server URL
